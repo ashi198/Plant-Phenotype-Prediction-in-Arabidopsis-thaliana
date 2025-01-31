@@ -18,7 +18,8 @@ We tested multiple regression models:
 * K-Nearest Neighbors Regression (KNR)
 * Kernel Ridge Regression (KRR)
 * Tweedie Regression (TR)
-* Bayesian Ridge Regression <br />
+* Bayesian Ridge Regression <br>
+
 Additionally, we adopted regularization (C and alpha tuning) and feature selection methods
 
 # Results
